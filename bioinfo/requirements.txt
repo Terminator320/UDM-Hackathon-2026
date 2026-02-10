@@ -1,0 +1,2 @@
+# pour l'Affichage sur le terminal
+rich>=13.7.0
