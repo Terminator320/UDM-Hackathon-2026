@@ -1,0 +1,9 @@
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\bin\Debug\Animation.exe.config
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\bin\Debug\Animation.exe
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\bin\Debug\Animation.pdb
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.csproj.AssemblyReference.cache
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.csproj.GenerateResource.cache
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.exe
+C:\Users\jluci\OneDrive\HackathonDiro2026\Animation\Animation\obj\Debug\Animation.pdb
